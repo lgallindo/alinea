@@ -26,3 +26,7 @@ script/install_local.sh
 ```
 
 The local app bundle is written to `dist/Alinea.app`.
+
+## License
+
+GPL-3.0-or-later. See LICENSE.
